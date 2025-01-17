@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Steven, an <a href="https://www.linkedin.com/in/chavezsteven/">IT Specialist</a></h1>
 
-<!--
-**StevenAChavez/StevenAChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Troubleshooting User PC</b>
+  - 
+- <b>Microsoft Azure</b>
+  - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📄 Certifications</h2>
+
+[Comptia A+](https://drive.google.com/file/d/14k9Sz3-Z1NWR8CRV2wxV3qIjU5ZvTvAi/view?usp=sharing)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+<h2>📩Contact Me</h2>
+
+[<img align="left" alt="Steven | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/chavezsteven/
