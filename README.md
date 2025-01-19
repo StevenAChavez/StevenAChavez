@@ -11,6 +11,8 @@
 
 [Comptia A+](https://drive.google.com/file/d/14k9Sz3-Z1NWR8CRV2wxV3qIjU5ZvTvAi/view?usp=sharing)
 
+[Foothill College IT Support Certificate](https://drive.google.com/file/d/1S6yoBf195WqjtNQbaac_ohfGeWjOclLX/view?usp=sharing)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2>📩Contact Me</h2>
