@@ -13,7 +13,7 @@
 
 [Foothill College IT Support Certificate](https://drive.google.com/file/d/1S6yoBf195WqjtNQbaac_ohfGeWjOclLX/view?usp=sharing)
 
-[Foothill College AA Enterprise Networking]
+[Foothill College AA Enterprise Networking](https://drive.google.com/file/d/1xv9IuijCvwIUWjlfZNVYJF0cDIhGkP1E/view?usp=sharing)
 
 <h2>📺 Popular YouTube Videos</h2>
 
